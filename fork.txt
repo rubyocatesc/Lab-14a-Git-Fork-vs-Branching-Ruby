@@ -1,1 +1,1 @@
-
+Include example branching and merging commands in project documentation.
